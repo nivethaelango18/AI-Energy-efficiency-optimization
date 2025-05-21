@@ -3,16 +3,16 @@ NAAN MUDHALVAN - IBM
 COLLEGE CODE : 1125
 COLLEGE NAME : Sri Venkateswara Institute of Science and Technology, Tiruvallur
 
-DEPARTMENT : CSE
+DEPARTMENT : ECE
 
-STUDENT NM-ID : CDC35522E0394689CBE4D56879DBEB50
+STUDENT NM-ID : D3033B67C74A688BC824DD47F9467DE6
 
-ROLL NO : 112523104010
+ROLL NO : 112523106002
 
 
 DATE : 15/05/25
 AI - ENERGY EFFICIENCY AND OPTIMIZATION
-SUBMITTED BY : N.Priya
+SUBMITTED BY : E.Nivetha
 
 Project Demonstration :
 	The AI-Powered Predictive Scheduler system will be demonstrated to stakeholders, showcasing its features, performance improvements, and functionality. This demonstration highlights the system’s real-time responses, IoT data integration, security measures, and performance scalability.
